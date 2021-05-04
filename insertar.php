@@ -6,7 +6,7 @@ DEFINE ('DBUSER', 'root');
 
 DEFINE ('DBPW', '');
 
-DEFINE ('DBHOST', 'phpmyadmin');
+DEFINE ('DBHOST', 'localhost');
 
 DEFINE ('DBNAME', 'libreciacdb');
 
